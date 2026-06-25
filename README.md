@@ -188,22 +188,38 @@ The overtures get the attention, but most of the week is the church simply
   records — all reported and had their recommendations approved, most without
   controversy.
 
-### [TO UPDATE] The overture floor votes
-- **The one formal split among the overtures was *not* the deacon question.** Of all
-  82 overtures, only one produced a minority report: **Overture 43,** on whether the
-  denomination's coordinators and Stated Clerk should be elected to **four-year
-  terms** instead of the current **annual** election. The committee narrowly favored
-  the change (**73–53**); the minority urged keeping yearly elections — "an annual
-  election is not a nuisance; it is one of the ordinary ways the courts of the church
-  maintain accountability," and changing a fifty-year pattern this fast, without the
-  presbyteries' input, would be unwise. It is a fitting picture of how this church
-  argues: not over whether to be faithful, but over *how* — and even the disagreement
-  is framed in the language of stewardship, accountability, and care. (This is a
-  rule-of-order change, so it would take effect at the Assembly itself — no year-long
-  presbytery vote.) **[TO UPDATE: how the floor decided it.]**
-- **[Floor votes]** — where committee recommendations became the Assembly's actual
-  decisions; note any that changed, especially the diaconate question and the Danvers
-  Statement.
+### The overture floor votes (as they happen)
+
+**The first real debate — Overture 43 (four-year terms).** We have hit the first
+item of substantial debate, and the one overture that received a minority report
+out of the Overtures Committee. Overture 43 proposed giving our Stated Clerk and the
+Coordinators of MNA, MTW, CDM, and RUF **four-year terms** instead of the one-year
+cycles in which they have to be reelected. The position of the minority — to stick
+with a one-year tenure, laced with grass-roots suspicion dressed in the clothing of
+accountability (is my orientation toward this issue showing?) — prevailed, became
+the main motion, and was sustained by the Assembly by a vote of roughly
+**1104–605.** This was never going to receive the necessary supermajority. For me
+this is at least an organizational oddity for which the only reasonable supporting
+argument was "we never do this anyway." That's not an argument that this situation
+"ain't broke." It's an argument that we've decided to ignore the possibility of
+squirrels in the attic.
+
+**Clearing the easy ones "in gross."** We have begun dealing with our overtures by
+taking on a series of *in gross* motions — handling whole groups of overtures at
+once that drew little opposition in the Overtures Committee. Very rapidly, and
+without vocal opposition, we affirmed:
+
+- **Four RAO overtures the committee recommended we refer back:** 5, 8, 32, and 63.
+- **Seven RAO overtures the committee recommended we say "no" to:** 6, 7, 9, 33, 45,
+  47, and 53.
+- **Four RAO overtures the committee supported** (in their original or amended
+  forms): 11, 78, 79, and 81. All of these RAO changes required a *supermajority* to
+  approve — set as a percentage of our total registered commissioners — so the hurdle
+  was at least **1,232 votes.** The omnibus motion cleared it easily, passing with
+  more than **1,300 yes** votes against only **4–10 no.**
+
+- **[Still to come]** — the remaining contested items, especially the diaconate
+  question and the Danvers Statement.
 - **[Final tally]** — what passed, what failed, and what now goes to the presbyteries
   for the year-long ratification vote.
 
