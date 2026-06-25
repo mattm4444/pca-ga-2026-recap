@@ -190,33 +190,21 @@ The overtures get the attention, but most of the week is the church simply
 
 ### The overture floor votes (as they happen)
 
-**The first real debate — Overture 43 (four-year terms).** We have hit the first
-item of substantial debate, and the one overture that received a minority report
-out of the Overtures Committee. Overture 43 proposed giving our Stated Clerk and the
-Coordinators of MNA, MTW, CDM, and RUF **four-year terms** instead of the one-year
-cycles in which they have to be reelected. The position of the minority — to stick
-with a one-year tenure, laced with grass-roots suspicion dressed in the clothing of
-accountability (is my orientation toward this issue showing?) — prevailed, became
-the main motion, and was sustained by the Assembly by a vote of roughly
-**1104–605.** This was never going to receive the necessary supermajority. For me
-this is at least an organizational oddity for which the only reasonable supporting
-argument was "we never do this anyway." That's not an argument that this situation
-"ain't broke." It's an argument that we've decided to ignore the possibility of
-squirrels in the attic.
+**Overture 43 (four-year terms) — defeated.** The first real floor debate, and the
+one overture that drew a minority report. It proposed four-year terms for the Stated
+Clerk and the Coordinators of MNA, MTW, CDM, and RUF, replacing the current one-year
+reelection cycle. The minority position — keep the one-year tenure — prevailed,
+became the main motion, and was sustained roughly **1104–605.** As a rule-of-order
+(RAO) change, the four-year proposal needed a supermajority it was never going to
+reach; the only real argument for it amounted to "we never do this anyway," which is
+less a case that nothing's broken than a decision not to look in the attic.
 
-**Clearing the easy ones "in gross."** We have begun dealing with our overtures by
-taking on a series of *in gross* motions — handling whole groups of overtures at
-once that drew little opposition in the Overtures Committee. Very rapidly, and
-without vocal opposition, we affirmed:
-
-- **Four RAO overtures the committee recommended we refer back:** 5, 8, 32, and 63.
-- **Seven RAO overtures the committee recommended we say "no" to:** 6, 7, 9, 33, 45,
-  47, and 53.
-- **Four RAO overtures the committee supported** (in their original or amended
-  forms): 11, 78, 79, and 81. All of these RAO changes required a *supermajority* to
-  approve — set as a percentage of our total registered commissioners — so the hurdle
-  was at least **1,232 votes.** The omnibus motion cleared it easily, passing with
-  more than **1,300 yes** votes against only **4–10 no.**
+**First in-gross omnibus — RAO overtures cleared quickly, no vocal opposition:**
+- **Referred back** (committee's recommendation): 5, 8, 32, 63.
+- **Answered "no":** 6, 7, 9, 33, 45, 47, 53.
+- **Adopted** (original or amended): 11, 78, 79, 81. These RAO changes needed a
+  supermajority of total registered commissioners — a hurdle of at least **1,232
+  votes** — and cleared it easily, **1,300+ yes to 4–10 no.**
 
 - **[Still to come]** — the remaining contested items, especially the diaconate
   question and the Danvers Statement.
