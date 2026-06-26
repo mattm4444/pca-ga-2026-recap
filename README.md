@@ -123,12 +123,13 @@ In plain English, what the committee recommended on the first day:
 - **A statement on biblical manhood and womanhood (the "Danvers Statement," O61) —
   adopted.** The committee had split razor-thin (**66–64**), and the floor mirrored
   that division: substantive debate on both sides, ending in a close (and, by some
-  accounts, technologically suspect) vote to declare the Danvers Statement biblically
-  faithful. This is a *statement* of conviction, not a constitutional change, so it
-  does not go to the presbyteries.
+  accounts, technologically suspect) vote of **934–841–34 (about 52%)** to declare the
+  Danvers Statement biblically faithful. This is a *statement* of conviction, not a
+  constitutional change, so it does not go to the presbyteries.
 - **Artificial Intelligence vs. Critical Race Theory.** The carried-over request to
   form an **Ad Interim Committee on Artificial Intelligence** (O2025-49) was approved
-  by the required **two-thirds** — making it a **third active study committee**
+  **1,175–503–12 (70%)** — clearing the required **two-thirds** and making it a
+  **third active study committee**
   alongside the Directory for Public Worship and Christian Nationalism committees. A
   parallel request to study **Critical Race Theory** (Overture 80) was **declined,**
   the Assembly siding with the committee's skepticism about launching yet another
@@ -199,11 +200,11 @@ The Assembly worked the Overtures Committee report category by category — movi
 lopsided recommendations *in gross* (in a block) and pulling a handful out for
 individual debate. What the floor did:
 
-- **Committee-favored, closer votes (adopted in a block):** 57, 72, 76, 89. (Two
-  others in this group were pulled for separate handling.)
-- **Committee-favored overtures (adopted):** 4, 13, 15, 16, 50, 69. Of these, **4 and
-  50** were simply encouragements/prayers; **13, 15, 16, and 69 are BCO amendments**
-  that now go to the **89 presbyteries** for ratification.
+- **Committee-favored overtures (adopted):** 4, 13, 15, 16, 50, 57, 69, 72 (plus O27,
+  below). Of these, **4 and 50** were thanksgiving/prayer items, and the
+  **250th-anniversary thanksgiving passed as Overture 66** (with the duplicate
+  versions, 76 and 89, answered by reference to it). The constitutional pieces are
+  flagged below.
 - **Overture 27 (original jurisdiction) — adopted.** Pulled from the block for
   spirited debate; this heavily amended **BCO** change lets the General Assembly
   assume original jurisdiction over a matter in a presbytery. Approved, and now heads
@@ -216,12 +217,12 @@ individual debate. What the floor did:
   negative recommendation held across the board. **This is where the diaconate
   question (Overture 37) was settled** — no minority report, the cluster fell, the
   committee's "no" stood.
-- **Overture 43 (four-year terms) — defeated, ~1104–605.** The lone minority report.
-  It proposed four-year terms for the Stated Clerk and the Coordinators of MNA, MTW,
-  CDM, and RUF in place of the current one-year reelection cycle. The minority
+- **Overture 43 (four-year terms) — defeated, 1104–645–13 (63%).** The lone minority
+  report. It proposed four-year terms for the Stated Clerk and the Coordinators of MNA,
+  MTW, CDM, and RUF in place of the current one-year reelection cycle. The minority
   position — keep the one-year tenure — prevailed and became the main motion. As a
-  rule-of-order (RAO) change the four-year version needed a supermajority it was never
-  going to reach.
+  rule-of-order (RAO) change the four-year version needed a supermajority (about
+  two-thirds) it fell short of at 63%.
 - **Referred back to presbyteries:** **12, 51, 59** on the merits, plus **22 more**
   that simply ran out of priority time (17–26, 30, 31, 49, 55, 58, 60, 64, 68, 82, 84,
   85, 90). A healthy signal that in a "surge" year the Assembly can set lower-priority
@@ -229,10 +230,11 @@ individual debate. What the floor did:
 - **RAO overtures, in gross:** referred back (5, 8, 32, 63); answered no (6, 7, 9, 33,
   45, 47, 53); adopted (11, 78, 79, 81). The adopted RAO changes needed a supermajority
   of registered commissioners — at least **1,232 votes** — and cleared it easily,
-  **1,300+ yes to 4–10 no.**
+  **1,326–14–2 (99%).**
 
 **BCO amendments now headed to the presbyteries** (need two-thirds — about 60 of 89 —
-to ratify within the year): **13, 15, 16, 27, 69.**
+to ratify within the year): **13, 15, 16, 27, 57, 69, 72.** (RAO changes like 11, 78,
+and 81 are final at the Assembly and need no presbytery vote.)
 
 ### Elections (Nominating Committee)
 
