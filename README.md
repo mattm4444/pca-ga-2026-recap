@@ -269,7 +269,43 @@ prevailed in every contest but one (Bradley, a floor nominee, on MNA).
 
 ---
 
-*Prepared for our congregation's GA 2026 recap. Overture figures are from early
-committee tallies and recommendations; the wider-Assembly summary is drawn from a
-commissioner's floor notes and the official Commissioner Handbook; final floor
-results to follow.*
+## 5. How GA went — reactions from the right and the left
+
+How an Assembly "went" depends a great deal on where you sit. Two broad readings:
+
+**From the confessional right.** Writing at *Reformed Politics,* David W. Hall read
+Louisville as "a decidedly right-wing leaning Assembly" and expects the conservative
+wing to come away "emboldened." The wins he counts: the lopsided rejection of women as
+ordained deacons (Overture 37), which he calls "a clear rejection... of the push for
+this expansion to office"; the narrow but real adoption of the Danvers Statement; the
+election of Fred Greco as Stated Clerk and Mel Duncan's gracious moderating ("from all
+quarters"); and the Assembly's general reluctance to make big constitutional changes —
+"the PCA was not in a mood for large change." He treats the defeat of four-year terms
+(O43) and the approval of the AI committee more neutrally. His bottom line: the more
+progressive voices "were no longer dominant."
+
+**From the progressive / broad-church left.** For commissioners who hoped GA might make
+even modest room — women serving (or being commissioned) in diaconal ministry, or a
+lighter hand on contested cultural statements — the same results read as a hardening.
+The diaconate cluster fell by wide margins; Overture 38's commissioning route failed;
+and proposals to fence the offices more tightly advanced. Declaring a 1987 parachurch
+document "biblically faithful" on a **52%** floor vote looked, from this side, less like
+consensus than a slim majority committing the whole church's voice on genuinely
+disputed ground. The slow, study-first handling of Christian Nationalism, and the AI
+committee, were the outcomes most could welcome across the spectrum.
+
+**What both sides grant.** Even Hall, writing from the right, credits the tone of the
+meeting and the moderator's grace "from all quarters." The disagreements were sharp,
+the votes often close — and the body still held together and went home as one church.
+
+*(Sourcing note: the right-hand read is drawn from a named, published commentator;
+the left-hand read is a fair characterization of the progressive minority's view rather
+than a single attributed writer. If you have a specific progressive-leaning recap you'd
+like represented by name, it can be added here.)*
+
+---
+
+*Prepared for our congregation's GA 2026 recap. Overture figures and floor results are
+drawn from the official Commissioner Handbooks, the Polity Matters overtures companion,
+a commissioner's floor notes, and published commentary (David W. Hall, Reformed
+Politics).*
