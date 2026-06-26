@@ -284,28 +284,42 @@ quarters"); and the Assembly's general reluctance to make big constitutional cha
 (O43) and the approval of the AI committee more neutrally. His bottom line: the more
 progressive voices "were no longer dominant."
 
-**From the progressive / broad-church left.** For commissioners who hoped GA might make
-even modest room — women serving (or being commissioned) in diaconal ministry, or a
-lighter hand on contested cultural statements — the same results read as a hardening.
-The diaconate cluster fell by wide margins; Overture 38's commissioning route failed;
-and proposals to fence the offices more tightly advanced. Declaring a 1987 parachurch
-document "biblically faithful" on a **52%** floor vote looked, from this side, less like
-consensus than a slim majority committing the whole church's voice on genuinely
-disputed ground. The slow, study-first handling of Christian Nationalism, and the AI
-committee, were the outcomes most could welcome across the spectrum.
+**From the broad-church center — the AMR recap (Derek Radney, with Jeff Ziegler and
+Eric Bonovski).** What many would call the PCA's "left" came away strikingly
+*encouraged,* but for different reasons than the right. Bracing for another contentious
+year — "is this the future of the PCA?" — they instead found a week of "trust and
+collaboration." Their running symbol for it was **"clicker-gate":** the balky voting
+devices that forced a hand-counted division on nearly every close vote. The shared,
+good-humored frustration ("a common enemy") became, in their telling, "a living analogy
+for Presbyterianism" — slow, patient, frustrating, and in the end effective. They read
+the wide deference to committees (Overtures, RPR, Nominating) as *restored trust,* and
+the headline results as the church saying it "is comfortable with where we are":
+officer and women's-roles complaints handled at the presbytery level through
+review-and-control, and most overtures answered "already addressed in our constitution"
+— "confidently confessional," stability over reactive change. Crucially, they do **not**
+treat the diaconate question as closed: "it's not settled within the PCA," there's
+"appetite for talking about it more," and they hope those overtures return *refined,*
+after the kind of multi-year consensus-building the Keller/DeYoung same-sex-attraction
+study eventually reached. Their loudest theme was the "triumph of statesmanship... over
+online agitators" — face-to-face work over shared meals closing distances that X only
+inflames (they note an online "maneuver" on the deacon compromise simply fizzled on the
+floor). Their one real critique was internal-process: a worry that **review-and-control
+is crowding subsidiarity** (trust of the lower courts), illustrated by a minority-report
+debate over a candidate's exception on images of Jesus that drifted into the second
+commandment itself rather than the real question of deference — and they noted two
+attempts to reform RPR were rejected, leaving that work for later.
 
-**What both sides grant.** Even Hall, writing from the right, credits the tone of the
-meeting and the moderator's grace "from all quarters." The disagreements were sharp,
-the votes often close — and the body still held together and went home as one church.
-
-*(Sourcing note: the right-hand read is drawn from a named, published commentator;
-the left-hand read is a fair characterization of the progressive minority's view rather
-than a single attributed writer. If you have a specific progressive-leaning recap you'd
-like represented by name, it can be added here.)*
+**What both sides grant.** Right and left alike credit the tone of the meeting and the
+moderator's grace "from all quarters," and reach for the same image: that the PCA shares
+"99%" and fights over "a thin sliver of 1%." The disagreements were sharp and the votes
+often close — and the body still held together and went home as one church, with voices
+across the spectrum hoping the next Assembly turns from fringe fights toward the
+missional challenges (church closings, the pastor pipeline, RUF's interns, the schools)
+that drew them into this church in the first place.
 
 ---
 
 *Prepared for our congregation's GA 2026 recap. Overture figures and floor results are
 drawn from the official Commissioner Handbooks, the Polity Matters overtures companion,
 a commissioner's floor notes, and published commentary (David W. Hall, Reformed
-Politics).*
+Politics; and the AMR general-assembly recap).*
