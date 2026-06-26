@@ -113,21 +113,26 @@ In plain English, what the committee recommended on the first day:
   **denomination-wide day of prayer and fasting for revival in September 2026.**
   These "starter" items are warm and uncontested on purpose — the Assembly tends to
   begin by giving thanks before it takes up anything hard.
-- **The nation's 250th anniversary.** Three overtures proposed an official statement
-  of thanksgiving for the United States' 250th. The Assembly's advisors had split
-  over *how much to say* — wary of the church adopting a long, contestable
-  historical-political declaration as its official voice — and the version that
-  advanced was **trimmed down** toward simple thanks to God. A small but revealing
-  instance of the church being careful about when it speaks in the nation's politics.
-- **A statement on biblical manhood and womanhood (the "Danvers Statement").**
-  Affirmed in committee — but by a razor-thin **66 to 64.** Expect this one to be
-  debated again on the floor. **[TO UPDATE: floor result.]**
-- **Artificial Intelligence vs. Critical Race Theory.** Approved a small,
-  practically-focused committee to study how **AI** affects churches and families
-  (the request that carried over from last year). A parallel request to study
-  **Critical Race Theory** was **declined.** The advisors were generally skeptical
-  of standing study committees as a category, reasoning that the church's existing
-  pastors, scholars, and confession are better suited than a slow-moving committee.
+- **The nation's 250th anniversary.** Several overtures proposed an official statement
+  of thanksgiving for the United States' 250th. The Assembly's advisors had split over
+  *how much to say* — wary of the church adopting a long, contestable
+  historical-political declaration as its official voice — and the **trimmed-down**
+  version, a simple statement of thanks to God for the liberty the country affords,
+  was **adopted.** A small but revealing instance of the church being careful about
+  when it speaks in the nation's politics.
+- **A statement on biblical manhood and womanhood (the "Danvers Statement," O61) —
+  adopted.** The committee had split razor-thin (**66–64**), and the floor mirrored
+  that division: substantive debate on both sides, ending in a close (and, by some
+  accounts, technologically suspect) vote to declare the Danvers Statement biblically
+  faithful. This is a *statement* of conviction, not a constitutional change, so it
+  does not go to the presbyteries.
+- **Artificial Intelligence vs. Critical Race Theory.** The carried-over request to
+  form an **Ad Interim Committee on Artificial Intelligence** (O2025-49) was approved
+  by the required **two-thirds** — making it a **third active study committee**
+  alongside the Directory for Public Worship and Christian Nationalism committees. A
+  parallel request to study **Critical Race Theory** (Overture 80) was **declined,**
+  the Assembly siding with the committee's skepticism about launching yet another
+  standing study.
 - **Guarding the church's integrity.** Strengthened the process by which the wider
   church can step in when a lower court fails to act on a serious matter
   (**Overture 27, approved 123–10**) — a rare near-unanimous result on a matter of
@@ -188,28 +193,77 @@ The overtures get the attention, but most of the week is the church simply
   records — all reported and had their recommendations approved, most without
   controversy.
 
-### The overture floor votes (as they happen)
+### The overture floor votes
 
-**Overture 43 (four-year terms) — defeated.** The first real floor debate, and the
-one overture that drew a minority report. It proposed four-year terms for the Stated
-Clerk and the Coordinators of MNA, MTW, CDM, and RUF, replacing the current one-year
-reelection cycle. The minority position — keep the one-year tenure — prevailed,
-became the main motion, and was sustained roughly **1104–605.** As a rule-of-order
-(RAO) change, the four-year proposal needed a supermajority it was never going to
-reach; the only real argument for it amounted to "we never do this anyway," which is
-less a case that nothing's broken than a decision not to look in the attic.
+The Assembly worked the Overtures Committee report category by category — moving the
+lopsided recommendations *in gross* (in a block) and pulling a handful out for
+individual debate. What the floor did:
 
-**First in-gross omnibus — RAO overtures cleared quickly, no vocal opposition:**
-- **Referred back** (committee's recommendation): 5, 8, 32, 63.
-- **Answered "no":** 6, 7, 9, 33, 45, 47, 53.
-- **Adopted** (original or amended): 11, 78, 79, 81. These RAO changes needed a
-  supermajority of total registered commissioners — a hurdle of at least **1,232
-  votes** — and cleared it easily, **1,300+ yes to 4–10 no.**
+- **Committee-favored, closer votes (adopted in a block):** 57, 72, 76, 89. (Two
+  others in this group were pulled for separate handling.)
+- **Committee-favored overtures (adopted):** 4, 13, 15, 16, 50, 69. Of these, **4 and
+  50** were simply encouragements/prayers; **13, 15, 16, and 69 are BCO amendments**
+  that now go to the **89 presbyteries** for ratification.
+- **Overture 27 (original jurisdiction) — adopted.** Pulled from the block for
+  spirited debate; this heavily amended **BCO** change lets the General Assembly
+  assume original jurisdiction over a matter in a presbytery. Approved, and now heads
+  to the presbyteries.
+- **Answered "no," closer committee votes:** the Assembly sided with the committee
+  against **1, 28, 35.**
+- **Answered "no" by wide margin (20 overtures):** 2, 3, 14, 29, 34, 36, 37, 38, 39,
+  46, 48, 52, 54, 56, 65, 67, 71, 74, 75, 86 — all sustained. Four were pulled out for
+  some biblical-and-historical debate on **women serving in diaconal roles,** but the
+  negative recommendation held across the board. **This is where the diaconate
+  question (Overture 37) was settled** — no minority report, the cluster fell, the
+  committee's "no" stood.
+- **Overture 43 (four-year terms) — defeated, ~1104–605.** The lone minority report.
+  It proposed four-year terms for the Stated Clerk and the Coordinators of MNA, MTW,
+  CDM, and RUF in place of the current one-year reelection cycle. The minority
+  position — keep the one-year tenure — prevailed and became the main motion. As a
+  rule-of-order (RAO) change the four-year version needed a supermajority it was never
+  going to reach.
+- **Referred back to presbyteries:** **12, 51, 59** on the merits, plus **22 more**
+  that simply ran out of priority time (17–26, 30, 31, 49, 55, 58, 60, 64, 68, 82, 84,
+  85, 90). A healthy signal that in a "surge" year the Assembly can set lower-priority
+  overtures aside.
+- **RAO overtures, in gross:** referred back (5, 8, 32, 63); answered no (6, 7, 9, 33,
+  45, 47, 53); adopted (11, 78, 79, 81). The adopted RAO changes needed a supermajority
+  of registered commissioners — at least **1,232 votes** — and cleared it easily,
+  **1,300+ yes to 4–10 no.**
 
-- **[Still to come]** — the remaining contested items, especially the diaconate
-  question and the Danvers Statement.
-- **[Final tally]** — what passed, what failed, and what now goes to the presbyteries
-  for the year-long ratification vote.
+**BCO amendments now headed to the presbyteries** (need two-thirds — about 60 of 89 —
+to ratify within the year): **13, 15, 16, 27, 69.**
+
+### Elections (Nominating Committee)
+
+Non-contested slates passed by unanimous voice vote. The contested results:
+
+- **Administrative Committee:** TE Michael Hearon (Savannah River)
+- **Constitutional Business (alternates):** TE Alex Ford (Wisconsin), RE Trevor
+  Laurence (Piedmont Triad)
+- **Covenant College trustee:** Michael Livingston (Nashville)
+- **Nominating Committee:** TE Thomas Haar (New Jersey)
+- **Interchurch Relations:** Michael Chhangur (Eastern Canada)
+- **Mission to North America** (very close, hand-counted; MNA names a new permanent
+  Coordinator next year): TE Mike Kelly (Pacific Northwest), TE Zach Bradley
+  (Mississippi Valley, a floor nominee), TE Geof Bradford (Eastern Carolina), RE
+  Donald Barefoot (Calvary), and alternate RE Dan Case (Metro Atlanta)
+- **Mission to the World:** TE Andrew Lewis (Calvary)
+- **Standing Judicial Commission:** TE Sean Lucas (Covenant), TE Brent Horan
+  (Pittsburgh)
+
+Floor nominees were well down from last year, and the Nominating Committee's slate
+prevailed in every contest but one (Bradley, a floor nominee, on MNA).
+
+### Other actions
+
+- **GA registration fees — back to parity.** The recent discount for ruling elders was
+  ended, restoring an equal fee for teaching and ruling elders. Next year's fee was
+  set, and future adjustments tied to inflation indices.
+- **Study committees extended.** Both committees approved last year — the **Directory
+  for Public Worship** and **Christian Nationalism** — were continued for another year;
+  a motion to add new members to them was set aside. (With the new AI committee, three
+  study committees are now active.)
 
 ---
 
